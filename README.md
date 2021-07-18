@@ -10,3 +10,19 @@
 - [webpack系列3：webpack 主流程源码阅读以及实现一个 webpack](https://segmentfault.com/a/1190000023016373)
 
 - [webpack 前端运行时的模块化设计与实现](https://www.alienzhou.com/2018/08/27/webpack-module-runtime/)
+
+
+### Go 学习资料
+- 了解
+  - [GO 语言简介（上）— 语法](https://coolshell.cn/articles/8460.html)
+  - [GO 语言简介（下）— 特性](https://coolshell.cn/articles/8489.html)
+- 基础书籍
+  - [Learn Go with tests](https://studygolang.gitbook.io/learn-go-with-tests/)
+  - [Go 入门指南](https://learnku.com/docs/the-way-to-go)
+  - [Go 高级编程语言](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
+  - [跟煎鱼学 Go](https://eddycjy.gitbook.io/golang/)
+- 进阶
+  - [Go 编程模式](https://coolshell.cn/articles/21128.html)  
+  - [Go 语言设计与实现](https://draveness.me/golang/)
+  - [Go 语言原本](https://golang.design/under-the-hood//)
+  - [Go 夜读](https://talkgo.org/)
