@@ -11,6 +11,9 @@
 
 - [webpack 前端运行时的模块化设计与实现](https://www.alienzhou.com/2018/08/27/webpack-module-runtime/)
 
+### 微前端
+- [百度关于微前端架构EMP的探索：落地生产可用的微前端架构](https://mp.weixin.qq.com/s/1BJ3Q0zZ5vQbXgIwZ0HbGA)
+
 
 ### Go 学习资料
 - 了解
