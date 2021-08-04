@@ -18,6 +18,9 @@
 - [百度关于微前端架构EMP的探索：落地生产可用的微前端架构](https://mp.weixin.qq.com/s/1BJ3Q0zZ5vQbXgIwZ0HbGA)
 
 
+### 前端框架
+- [Svelte 展望](https://mp.weixin.qq.com/s/CjSSKid97-yCL86Wj2xUdg)
+
 ### Go 学习资料
 - 了解
   - [GO 语言简介（上）— 语法](https://coolshell.cn/articles/8460.html)
